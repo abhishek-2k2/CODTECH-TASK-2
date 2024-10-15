@@ -2,22 +2,47 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>IMDB Sentiment Analysis - README</title>
+   
 </head>
 <body>
 
 <!-- Project Information -->
-<section>
-    <h1>IMDB Sentiment Analysis</h1>
-    <p>This project classifies IMDB movie reviews as either positive or negative using machine learning models, such as Logistic Regression, Naive Bayes, and Support Vector Classifier (SVC). It involves data preprocessing, exploratory data analysis, and model evaluation.</p>
+<!-- Project Information -->
+<h1>IMDB Sentiment Analysis</h1>
+<p>This project classifies IMDB movie reviews as either positive or negative using machine learning models, such as Logistic Regression, Naive Bayes, and Support Vector Classifier (SVC). It involves data preprocessing, exploratory data analysis, and model evaluation.</p>
 
-    <h2>Project Information</h2>
-    <p><strong>Name:</strong> Abhishek Chauhan</p>
-    <p><strong>Company:</strong> Codtech IT Solutions</p>
-    <p><strong>ID:</strong> CT6WDS1850</p>
-    <p><strong>Domain:</strong> Machine Learning</p>
-    <p><strong>Duration:</strong> September 5, 2024 - October 20, 2024</p>
-</section>
+<h2>Project Information</h2>
+<table border="1" cellpadding="5" cellspacing="0">
+    <tr>
+        <td><strong>Name:</strong></td>
+        <td>Abhishek Chauhan</td>
+    </tr>
+    <tr>
+        <td><strong>Company:</strong></td>
+        <td>Codtech IT Solutions</td>
+    </tr>
+    <tr>
+        <td><strong>ID:</strong></td>
+        <td>CT6WDS1850</td>
+    </tr>
+    <tr>
+        <td><strong>Domain:</strong></td>
+        <td>Machine Learning</td>
+    </tr>
+    <tr>
+        <td><strong>Duration:</strong></td>
+        <td>September 5, 2024 - October 20, 2024</td>
+    </tr>
+</table>
+
+<h2>Overview</h2>
+<p>This project aims to classify movie reviews from an IMDB dataset as either positive or negative. The classification is achieved through various machine learning models, such as Logistic Regression, Naive Bayes, and SVC, with text preprocessing techniques to enhance prediction accuracy.</p>
+
+<h2>Dataset</h2>
+<ul>
+    <li><strong>Source:</strong> IMDB Dataset containing labeled reviews</li>
+    <li><strong>Objective:</strong> Predict the sentiment (positive or negative) based on review content</li>
+</ul>
 
 <h2>Overview</h2>
 <p>This project aims to classify movie reviews from an IMDB dataset as either positive or negative. The classification is achieved through various machine learning models, such as Logistic Regression, Naive Bayes, and SVC, with text preprocessing techniques to enhance prediction accuracy.</p>
