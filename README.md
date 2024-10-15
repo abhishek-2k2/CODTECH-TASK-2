@@ -8,7 +8,7 @@
 
 <!-- Project Information -->
 <!-- Project Information -->
-<h1>IMDB Sentiment Analysis</h1>
+<h1> Analysis On Movie reviews</h1>
 <p>This project classifies IMDB movie reviews as either positive or negative using machine learning models, such as Logistic Regression, Naive Bayes, and Support Vector Classifier (SVC). It involves data preprocessing, exploratory data analysis, and model evaluation.</p>
 
 <h2>Project Information</h2>
