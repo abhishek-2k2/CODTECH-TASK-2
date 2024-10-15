@@ -133,9 +133,9 @@ print("Test accuracy: {:.2f}%".format(accuracy * 100))
 
 <h2>Results</h2>
 <ul>
-    <li><strong>Logistic Regression:</strong> xx% accuracy</li>
+    <li><strong>Logistic Regression:</strong> 87% accuracy</li>
     <li><strong>Naive Bayes:</strong> xx% accuracy</li>
-    <li><strong>Support Vector Classifier (SVC):</strong> xx% accuracy</li>
+    <li><strong>Support Vector Classifier (SVC):</strong> 85% accuracy</li>
 </ul>
 
 </body>
